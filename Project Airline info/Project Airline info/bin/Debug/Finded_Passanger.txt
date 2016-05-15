@@ -1,0 +1,9 @@
+Name :Kair
+Second_name :Mamedov
+Nationality :India
+SEX :M
+Birthday :12.02.1960 0:00:00
+Flight_Number :k43
+Class :Econom
+ID :1
+________________________

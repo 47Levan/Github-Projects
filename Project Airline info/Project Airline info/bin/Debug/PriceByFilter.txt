@@ -1,0 +1,7 @@
+City_of_departure:Kiev
+City_of_arrival:Rome
+FlightNumber:I90
+Price_For_Econom:600
+Price_For_Business:700
+Price_For_First:800
+ID:2

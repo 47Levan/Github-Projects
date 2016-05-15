@@ -1,0 +1,40 @@
+Arrival: 21.05.2016 8:00:00
+Departure: 20.05.2016 19:00:00
+Flight_Number: K45
+City_of_arrival: London
+City_of_departure: Kiev
+Terminal: B
+Flight_Status: arrived
+Gate: 5
+ID: 1
+__________________________
+Arrival: 23.05.2016 20:00:00
+Departure: 23.05.2016 10:00:00
+Flight_Number: I90
+City_of_arrival: Rome
+City_of_departure: Kiev
+Terminal: T
+Flight_Status: Departured
+Gate: 6
+ID: 2
+__________________________
+Arrival: 21.05.2016 7:00:00
+Departure: 20.05.2016 15:00:00
+Flight_Number: O90
+City_of_arrival: Kiev
+City_of_departure: London
+Terminal: B
+Flight_Status: arrived
+Gate: 7
+ID: 3
+__________________________
+Arrival: 02.06.2016 20:00:00
+Departure: 02.06.2016 3:00:00
+Flight_Number: U87
+City_of_arrival: Paris
+City_of_departure: Kiev
+Terminal: B
+Flight_Status: E65
+Gate: 3
+ID: 4
+__________________________

@@ -1,0 +1,10 @@
+D:\Leva\Work\Informatika\C#\Brain academy\Object oriented fundamentals\Project Airline info\Project Airline info\bin\Debug\Project Airline info.exe.config
+D:\Leva\Work\Informatika\C#\Brain academy\Object oriented fundamentals\Project Airline info\Project Airline info\bin\Debug\Project Airline info.exe
+D:\Leva\Work\Informatika\C#\Brain academy\Object oriented fundamentals\Project Airline info\Project Airline info\bin\Debug\Project Airline info.pdb
+D:\Leva\Work\Informatika\C#\Brain academy\Object oriented fundamentals\Project Airline info\Project Airline info\obj\Debug\Project Airline info.exe
+D:\Leva\Work\Informatika\C#\Brain academy\Object oriented fundamentals\Project Airline info\Project Airline info\obj\Debug\Project Airline info.pdb
+D:\Leva\Work\Informatika\C#\Brain academy\Object oriented fundamentals\Project Airline info\Project Airline info\bin\Debug\EntityFramework.dll
+D:\Leva\Work\Informatika\C#\Brain academy\Object oriented fundamentals\Project Airline info\Project Airline info\bin\Debug\EntityFramework.SqlServer.dll
+D:\Leva\Work\Informatika\C#\Brain academy\Object oriented fundamentals\Project Airline info\Project Airline info\bin\Debug\EntityFramework.xml
+D:\Leva\Work\Informatika\C#\Brain academy\Object oriented fundamentals\Project Airline info\Project Airline info\bin\Debug\EntityFramework.SqlServer.xml
+D:\Leva\Work\Informatika\C#\Brain academy\Object oriented fundamentals\Project Airline info\Project Airline info\obj\Debug\Project Airline info.csprojResolveAssemblyReference.cache

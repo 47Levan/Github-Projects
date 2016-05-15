@@ -1,0 +1,27 @@
+Name :Kair
+Second_name :Mamedov
+Nationality :India
+SEX :M
+Birthday :12.02.1960 0:00:00
+Flight_Number :k43
+Class :Econom
+ID :1
+________________________
+Name :Shahriar
+Second_name :Mamedlee
+Nationality :Ajerbaijan
+SEX :M
+Birthday :23.04.1990 0:00:00
+Flight_Number :k43
+Class :Lux
+ID :1
+________________________
+Name :Sergey
+Second_name :Krokov
+Nationality :Russia
+SEX :M
+Birthday :01.01.2000 0:00:00
+Flight_Number :k43
+Class :Second
+ID :1
+________________________
